@@ -1,0 +1,15 @@
+Make programming great again
+# main body begins
+Make x number make  y1 z2zz 1w numbers
+Make a b Boolean
+X is 1000000 y1 is 2000000 z is 123456789
+A is fact b  is lie
+As long as, fact or lie ;
+:
+Tell x y1 z2zz say "continue"
+If, x plus (y ) times 2000000 more z? ; : tell a b say "stop" ! else : make c Boolean !
+C is not not not fact and x less z ? or lie
+Tell a b c x y z
+Say "done" # say done
+!
+America is great
